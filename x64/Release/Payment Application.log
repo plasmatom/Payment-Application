@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Discovery\source\repos\Payment Application\card.c(9,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Discovery\source\repos\Payment Application\terminal.c(7,13): warning C4101: 'curDATE': unreferenced local variable
+C:\Users\Discovery\source\repos\Payment Application\server.c(9,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Discovery\source\repos\Payment Application\server.c(33,15): warning C4101: 'accNumLen': unreferenced local variable
+C:\Users\Discovery\source\repos\Payment Application\server.c(67,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Discovery\source\repos\Payment Application\app.c(112,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
